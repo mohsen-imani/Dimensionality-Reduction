@@ -13,6 +13,7 @@ Tasks:
 1.1 Using k-fold cross validation
 1.2 In each cross validation, using PCA to reduce the dimensionality of images
 3. Apply LDA to replace PCA for dimensionality reduction and repeat Task 1.
+
 4. Run PCA first to reduce the image dimensionality to the number of training data, then using LDA to reduce the image dimensionality.
 
 
