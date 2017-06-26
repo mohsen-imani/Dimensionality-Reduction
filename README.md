@@ -1,4 +1,4 @@
-# Dimensionality-Reduction
+# Dimensionality Reduction
 
 This project is able to recognize a person's face by comparing facial images to that of a known person.  The algorithm projects the image onto a "face space" composed of a complete basis of "eigenfaces."
 
